@@ -13,7 +13,13 @@
     "ksanaforge/htmlfs": "*",
     "ccs_classifier/main": "*",
     "ccs_classifier/comp1": "*",
-    "ccs_classifier/dataset": "*"
+    "ccs_classifier/dataset": "*",
+    "ccs_classifier/titlelist": "*",
+    "ccs_classifier/titleinput": "*",
+    "ccs_classifier/catinput": "*",
+    "ccs_classifier/titlesincat": "*",
+    "ccs_classifier/cat": "*",
+    "ccs/api":"*"
   },
   "development": {},
   "paths": [

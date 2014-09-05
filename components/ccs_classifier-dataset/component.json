@@ -8,6 +8,6 @@
   "development": {},
   "license": "MIT",
   "main": "index.js",
-  "scripts": ["index.js","titlenames.js"],
+  "scripts": ["index.js","titlenames.js","collnames.js"],
   "styles": []
 }
