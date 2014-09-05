@@ -1,0 +1,13 @@
+{
+  "name": "dataset",
+  "repo": "ccs_classifier/dataset",
+  "description": "non visual module",
+  "version": "0.0.1",
+  "keywords": [],
+  "dependencies": {},
+  "development": {},
+  "license": "MIT",
+  "main": "index.js",
+  "scripts": ["index.js","titlenames.js"],
+  "styles": []
+}
