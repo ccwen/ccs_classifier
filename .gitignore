@@ -2,3 +2,4 @@ build.css
 build.js
 *.kdb
 *.kdbk
+node_modules
